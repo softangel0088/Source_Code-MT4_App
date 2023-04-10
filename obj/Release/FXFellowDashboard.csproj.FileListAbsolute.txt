@@ -1,0 +1,311 @@
+D:\Work\Trading\Bot\6. MT4 API\FXFellowDashboard\FXFELLOW_DASHBOARD\FXFellowDashboard\bin\log4net.config
+D:\Work\Trading\Bot\6. MT4 API\FXFellowDashboard\FXFELLOW_DASHBOARD\FXFellowDashboard\bin\FXFellowDashboard.exe.config
+D:\Work\Trading\Bot\6. MT4 API\FXFellowDashboard\FXFELLOW_DASHBOARD\FXFellowDashboard\bin\FXFellowDashboard.exe
+D:\Work\Trading\Bot\6. MT4 API\FXFellowDashboard\FXFELLOW_DASHBOARD\FXFellowDashboard\bin\FXFellowDashboard.pdb
+D:\Work\Trading\Bot\6. MT4 API\FXFellowDashboard\FXFELLOW_DASHBOARD\FXFellowDashboard\bin\Bunifu_UI_v1.5.3.dll
+D:\Work\Trading\Bot\6. MT4 API\FXFellowDashboard\FXFELLOW_DASHBOARD\FXFellowDashboard\bin\EntityFramework.dll
+D:\Work\Trading\Bot\6. MT4 API\FXFellowDashboard\FXFELLOW_DASHBOARD\FXFellowDashboard\bin\EntityFramework.SqlServer.dll
+D:\Work\Trading\Bot\6. MT4 API\FXFellowDashboard\FXFELLOW_DASHBOARD\FXFellowDashboard\bin\log4net.dll
+D:\Work\Trading\Bot\6. MT4 API\FXFellowDashboard\FXFELLOW_DASHBOARD\FXFellowDashboard\bin\MT4ServerAPI.dll
+D:\Work\Trading\Bot\6. MT4 API\FXFellowDashboard\FXFELLOW_DASHBOARD\FXFellowDashboard\bin\System.Data.SQLite.dll
+D:\Work\Trading\Bot\6. MT4 API\FXFellowDashboard\FXFELLOW_DASHBOARD\FXFellowDashboard\bin\System.Data.SQLite.EF6.dll
+D:\Work\Trading\Bot\6. MT4 API\FXFellowDashboard\FXFELLOW_DASHBOARD\FXFellowDashboard\bin\System.Data.SQLite.Linq.dll
+D:\Work\Trading\Bot\6. MT4 API\FXFellowDashboard\FXFELLOW_DASHBOARD\FXFellowDashboard\bin\WebDriver.dll
+D:\Work\Trading\Bot\6. MT4 API\FXFellowDashboard\FXFELLOW_DASHBOARD\FXFellowDashboard\bin\LoginId.dll
+D:\Work\Trading\Bot\6. MT4 API\FXFellowDashboard\FXFELLOW_DASHBOARD\FXFellowDashboard\bin\EntityFramework.xml
+D:\Work\Trading\Bot\6. MT4 API\FXFellowDashboard\FXFELLOW_DASHBOARD\FXFellowDashboard\bin\EntityFramework.SqlServer.xml
+D:\Work\Trading\Bot\6. MT4 API\FXFellowDashboard\FXFELLOW_DASHBOARD\FXFellowDashboard\bin\log4net.xml
+D:\Work\Trading\Bot\6. MT4 API\FXFellowDashboard\FXFELLOW_DASHBOARD\FXFellowDashboard\bin\System.Data.SQLite.xml
+D:\Work\Trading\Bot\6. MT4 API\FXFellowDashboard\FXFELLOW_DASHBOARD\FXFellowDashboard\bin\System.Data.SQLite.dll.config
+D:\Work\Trading\Bot\6. MT4 API\FXFellowDashboard\FXFELLOW_DASHBOARD\FXFellowDashboard\bin\WebDriver.xml
+D:\Work\Trading\Bot\6. MT4 API\FXFellowDashboard\FXFELLOW_DASHBOARD\FXFellowDashboard\obj\Release\FXFellowDashboard.AccountPAMM.resources
+D:\Work\Trading\Bot\6. MT4 API\FXFellowDashboard\FXFELLOW_DASHBOARD\FXFellowDashboard\obj\Release\FXFellowDashboard.AccountsCtrl.resources
+D:\Work\Trading\Bot\6. MT4 API\FXFellowDashboard\FXFELLOW_DASHBOARD\FXFellowDashboard\obj\Release\FXFellowDashboard.ClientCtrl.resources
+D:\Work\Trading\Bot\6. MT4 API\FXFellowDashboard\FXFELLOW_DASHBOARD\FXFellowDashboard\obj\Release\FXFellowDashboard.HeaderCtrl.resources
+D:\Work\Trading\Bot\6. MT4 API\FXFellowDashboard\FXFELLOW_DASHBOARD\FXFellowDashboard\obj\Release\FXFellowDashboard.HeaderPAMM.resources
+D:\Work\Trading\Bot\6. MT4 API\FXFellowDashboard\FXFELLOW_DASHBOARD\FXFellowDashboard\obj\Release\FXFellowDashboard.MainFrm.resources
+D:\Work\Trading\Bot\6. MT4 API\FXFellowDashboard\FXFELLOW_DASHBOARD\FXFellowDashboard\obj\Release\FXFellowDashboard.OrderCtrl.resources
+D:\Work\Trading\Bot\6. MT4 API\FXFellowDashboard\FXFELLOW_DASHBOARD\FXFellowDashboard\obj\Release\FXFellowDashboard.OrderHeaderCtrl.resources
+D:\Work\Trading\Bot\6. MT4 API\FXFellowDashboard\FXFELLOW_DASHBOARD\FXFellowDashboard\obj\Release\FXFellowDashboard.Properties.Resources.resources
+D:\Work\Trading\Bot\6. MT4 API\FXFellowDashboard\FXFELLOW_DASHBOARD\FXFellowDashboard\obj\Release\FXFellowDashboard.StockBuyButton.resources
+D:\Work\Trading\Bot\6. MT4 API\FXFellowDashboard\FXFELLOW_DASHBOARD\FXFellowDashboard\obj\Release\FXFellowDashboard.StockSellButton.resources
+D:\Work\Trading\Bot\6. MT4 API\FXFellowDashboard\FXFELLOW_DASHBOARD\FXFellowDashboard\obj\Release\FXFellowDashboard.csproj.GenerateResource.cache
+D:\Work\Trading\Bot\6. MT4 API\FXFellowDashboard\FXFELLOW_DASHBOARD\FXFellowDashboard\obj\Release\FXFellowDashboard.csproj.CoreCompileInputs.cache
+D:\Work\Trading\Bot\6. MT4 API\FXFellowDashboard\FXFELLOW_DASHBOARD\FXFellowDashboard\obj\Release\FXFellowDashboard.csproj.CopyComplete
+D:\Work\Trading\Bot\6. MT4 API\FXFellowDashboard\FXFELLOW_DASHBOARD\FXFellowDashboard\obj\Release\FXFellowDashboard.exe
+D:\Work\Trading\Bot\6. MT4 API\FXFellowDashboard\FXFELLOW_DASHBOARD\FXFellowDashboard\obj\Release\FXFellowDashboard.pdb
+D:\Work\Trading\Bot\6. MT4 API\FXFellowDashboard\FXFELLOW_DASHBOARD\FXFellowDashboard\bin\Microsoft.IdentityModel.Logging.dll
+D:\Work\Trading\Bot\6. MT4 API\FXFellowDashboard\FXFELLOW_DASHBOARD\FXFellowDashboard\bin\Microsoft.IdentityModel.Tokens.dll
+D:\Work\Trading\Bot\6. MT4 API\FXFellowDashboard\FXFELLOW_DASHBOARD\FXFellowDashboard\bin\Newtonsoft.Json.dll
+D:\Work\Trading\Bot\6. MT4 API\FXFellowDashboard\FXFELLOW_DASHBOARD\FXFellowDashboard\bin\System.IdentityModel.Tokens.Jwt.dll
+D:\Work\Trading\Bot\6. MT4 API\FXFellowDashboard\FXFELLOW_DASHBOARD\FXFellowDashboard\bin\Twilio.dll
+D:\Work\Trading\Bot\6. MT4 API\FXFellowDashboard\FXFELLOW_DASHBOARD\FXFellowDashboard\bin\Microsoft.IdentityModel.Tokens.xml
+D:\Work\Trading\Bot\6. MT4 API\FXFellowDashboard\FXFELLOW_DASHBOARD\FXFellowDashboard\bin\Newtonsoft.Json.xml
+D:\Work\Trading\Bot\6. MT4 API\FXFellowDashboard\FXFELLOW_DASHBOARD\FXFellowDashboard\bin\System.IdentityModel.Tokens.Jwt.xml
+D:\Work\Trading\Bot\6. MT4 API\FXFellowDashboard\FXFELLOW_DASHBOARD\FXFellowDashboard\bin\Twilio.xml
+D:\Work\Trading\Bot\6. MT4 API\FXFellowDashboard\FXFELLOW_DASHBOARD\FXFellowDashboard\obj\Release\FXFellowDashboard.MarginCallAlert.resources
+D:\Work\Trading\Bot\6. MT4 API\FXFellowDashboard\FXFELLOW_DASHBOARD\FXFellowDashboard\obj\Release\FXFellowDashboard.csprojAssemblyReference.cache
+D:\Work\Trading\Bot\6. FxFellow(MT4 API)\FXFellowDashboard\FXFELLOW_DASHBOARD\FXFellowDashboard\bin\log4net.config
+D:\Work\Trading\Bot\6. FxFellow(MT4 API)\FXFellowDashboard\FXFELLOW_DASHBOARD\FXFellowDashboard\bin\FXFellowDashboard.exe.config
+D:\Work\Trading\Bot\6. FxFellow(MT4 API)\FXFellowDashboard\FXFELLOW_DASHBOARD\FXFellowDashboard\bin\FXFellowDashboard.exe
+D:\Work\Trading\Bot\6. FxFellow(MT4 API)\FXFellowDashboard\FXFELLOW_DASHBOARD\FXFellowDashboard\bin\FXFellowDashboard.pdb
+D:\Work\Trading\Bot\6. FxFellow(MT4 API)\FXFellowDashboard\FXFELLOW_DASHBOARD\FXFellowDashboard\bin\Bunifu_UI_v1.5.3.dll
+D:\Work\Trading\Bot\6. FxFellow(MT4 API)\FXFellowDashboard\FXFELLOW_DASHBOARD\FXFellowDashboard\bin\EntityFramework.dll
+D:\Work\Trading\Bot\6. FxFellow(MT4 API)\FXFellowDashboard\FXFELLOW_DASHBOARD\FXFellowDashboard\bin\EntityFramework.SqlServer.dll
+D:\Work\Trading\Bot\6. FxFellow(MT4 API)\FXFellowDashboard\FXFELLOW_DASHBOARD\FXFellowDashboard\bin\HtmlRenderer.dll
+D:\Work\Trading\Bot\6. FxFellow(MT4 API)\FXFellowDashboard\FXFELLOW_DASHBOARD\FXFellowDashboard\bin\HtmlRenderer.PdfSharp.dll
+D:\Work\Trading\Bot\6. FxFellow(MT4 API)\FXFellowDashboard\FXFELLOW_DASHBOARD\FXFellowDashboard\bin\log4net.dll
+D:\Work\Trading\Bot\6. FxFellow(MT4 API)\FXFellowDashboard\FXFELLOW_DASHBOARD\FXFellowDashboard\bin\Microsoft.IdentityModel.Logging.dll
+D:\Work\Trading\Bot\6. FxFellow(MT4 API)\FXFellowDashboard\FXFELLOW_DASHBOARD\FXFellowDashboard\bin\Microsoft.IdentityModel.Tokens.dll
+D:\Work\Trading\Bot\6. FxFellow(MT4 API)\FXFellowDashboard\FXFELLOW_DASHBOARD\FXFellowDashboard\bin\MT4ServerAPI.dll
+D:\Work\Trading\Bot\6. FxFellow(MT4 API)\FXFellowDashboard\FXFELLOW_DASHBOARD\FXFellowDashboard\bin\Newtonsoft.Json.dll
+D:\Work\Trading\Bot\6. FxFellow(MT4 API)\FXFellowDashboard\FXFELLOW_DASHBOARD\FXFellowDashboard\bin\PdfiumViewer.dll
+D:\Work\Trading\Bot\6. FxFellow(MT4 API)\FXFellowDashboard\FXFELLOW_DASHBOARD\FXFellowDashboard\bin\PdfSharp.Charting.dll
+D:\Work\Trading\Bot\6. FxFellow(MT4 API)\FXFellowDashboard\FXFELLOW_DASHBOARD\FXFellowDashboard\bin\PdfSharp.dll
+D:\Work\Trading\Bot\6. FxFellow(MT4 API)\FXFellowDashboard\FXFELLOW_DASHBOARD\FXFellowDashboard\bin\System.Data.SQLite.dll
+D:\Work\Trading\Bot\6. FxFellow(MT4 API)\FXFellowDashboard\FXFELLOW_DASHBOARD\FXFellowDashboard\bin\System.Data.SQLite.EF6.dll
+D:\Work\Trading\Bot\6. FxFellow(MT4 API)\FXFellowDashboard\FXFELLOW_DASHBOARD\FXFellowDashboard\bin\System.Data.SQLite.Linq.dll
+D:\Work\Trading\Bot\6. FxFellow(MT4 API)\FXFellowDashboard\FXFELLOW_DASHBOARD\FXFellowDashboard\bin\System.IdentityModel.Tokens.Jwt.dll
+D:\Work\Trading\Bot\6. FxFellow(MT4 API)\FXFellowDashboard\FXFELLOW_DASHBOARD\FXFellowDashboard\bin\Twilio.dll
+D:\Work\Trading\Bot\6. FxFellow(MT4 API)\FXFellowDashboard\FXFELLOW_DASHBOARD\FXFellowDashboard\bin\WebDriver.dll
+D:\Work\Trading\Bot\6. FxFellow(MT4 API)\FXFellowDashboard\FXFELLOW_DASHBOARD\FXFellowDashboard\bin\LoginId.dll
+D:\Work\Trading\Bot\6. FxFellow(MT4 API)\FXFellowDashboard\FXFELLOW_DASHBOARD\FXFellowDashboard\bin\EntityFramework.xml
+D:\Work\Trading\Bot\6. FxFellow(MT4 API)\FXFellowDashboard\FXFELLOW_DASHBOARD\FXFellowDashboard\bin\EntityFramework.SqlServer.xml
+D:\Work\Trading\Bot\6. FxFellow(MT4 API)\FXFellowDashboard\FXFELLOW_DASHBOARD\FXFellowDashboard\bin\HtmlRenderer.pdb
+D:\Work\Trading\Bot\6. FxFellow(MT4 API)\FXFellowDashboard\FXFELLOW_DASHBOARD\FXFellowDashboard\bin\HtmlRenderer.PdfSharp.pdb
+D:\Work\Trading\Bot\6. FxFellow(MT4 API)\FXFellowDashboard\FXFELLOW_DASHBOARD\FXFellowDashboard\bin\log4net.xml
+D:\Work\Trading\Bot\6. FxFellow(MT4 API)\FXFellowDashboard\FXFELLOW_DASHBOARD\FXFellowDashboard\bin\Microsoft.IdentityModel.Tokens.xml
+D:\Work\Trading\Bot\6. FxFellow(MT4 API)\FXFellowDashboard\FXFELLOW_DASHBOARD\FXFellowDashboard\bin\Newtonsoft.Json.xml
+D:\Work\Trading\Bot\6. FxFellow(MT4 API)\FXFellowDashboard\FXFELLOW_DASHBOARD\FXFellowDashboard\bin\PdfSharp.xml
+D:\Work\Trading\Bot\6. FxFellow(MT4 API)\FXFellowDashboard\FXFELLOW_DASHBOARD\FXFellowDashboard\bin\PdfSharp.Charting.xml
+D:\Work\Trading\Bot\6. FxFellow(MT4 API)\FXFellowDashboard\FXFELLOW_DASHBOARD\FXFellowDashboard\bin\System.Data.SQLite.xml
+D:\Work\Trading\Bot\6. FxFellow(MT4 API)\FXFellowDashboard\FXFELLOW_DASHBOARD\FXFellowDashboard\bin\System.Data.SQLite.dll.config
+D:\Work\Trading\Bot\6. FxFellow(MT4 API)\FXFellowDashboard\FXFELLOW_DASHBOARD\FXFellowDashboard\bin\System.IdentityModel.Tokens.Jwt.xml
+D:\Work\Trading\Bot\6. FxFellow(MT4 API)\FXFellowDashboard\FXFELLOW_DASHBOARD\FXFellowDashboard\bin\Twilio.xml
+D:\Work\Trading\Bot\6. FxFellow(MT4 API)\FXFellowDashboard\FXFELLOW_DASHBOARD\FXFellowDashboard\bin\WebDriver.xml
+D:\Work\Trading\Bot\6. FxFellow(MT4 API)\FXFellowDashboard\FXFELLOW_DASHBOARD\FXFellowDashboard\bin\de\PdfSharp.resources.dll
+D:\Work\Trading\Bot\6. FxFellow(MT4 API)\FXFellowDashboard\FXFELLOW_DASHBOARD\FXFellowDashboard\bin\de\PdfSharp.Charting.resources.dll
+D:\Work\Trading\Bot\6. FxFellow(MT4 API)\FXFellowDashboard\FXFELLOW_DASHBOARD\FXFellowDashboard\obj\Release\FXFellowDashboard.csprojAssemblyReference.cache
+D:\Work\Trading\Bot\6. FxFellow(MT4 API)\FXFellowDashboard\FXFELLOW_DASHBOARD\FXFellowDashboard\obj\Release\FXFellowDashboard.AccountPAMM.resources
+D:\Work\Trading\Bot\6. FxFellow(MT4 API)\FXFellowDashboard\FXFELLOW_DASHBOARD\FXFellowDashboard\obj\Release\FXFellowDashboard.AccountsCtrl.resources
+D:\Work\Trading\Bot\6. FxFellow(MT4 API)\FXFellowDashboard\FXFELLOW_DASHBOARD\FXFellowDashboard\obj\Release\FXFellowDashboard.ClientCtrl.resources
+D:\Work\Trading\Bot\6. FxFellow(MT4 API)\FXFellowDashboard\FXFELLOW_DASHBOARD\FXFellowDashboard\obj\Release\FXFellowDashboard.HeaderCtrl.resources
+D:\Work\Trading\Bot\6. FxFellow(MT4 API)\FXFellowDashboard\FXFELLOW_DASHBOARD\FXFellowDashboard\obj\Release\FXFellowDashboard.HeaderPAMM.resources
+D:\Work\Trading\Bot\6. FxFellow(MT4 API)\FXFellowDashboard\FXFELLOW_DASHBOARD\FXFellowDashboard\obj\Release\FXFellowDashboard.HTMLViewCtrl.resources
+D:\Work\Trading\Bot\6. FxFellow(MT4 API)\FXFellowDashboard\FXFELLOW_DASHBOARD\FXFellowDashboard\obj\Release\FXFellowDashboard.MainFrm.resources
+D:\Work\Trading\Bot\6. FxFellow(MT4 API)\FXFellowDashboard\FXFELLOW_DASHBOARD\FXFellowDashboard\obj\Release\FXFellowDashboard.MarginCallAlert.resources
+D:\Work\Trading\Bot\6. FxFellow(MT4 API)\FXFellowDashboard\FXFELLOW_DASHBOARD\FXFellowDashboard\obj\Release\FXFellowDashboard.OrderCtrl.resources
+D:\Work\Trading\Bot\6. FxFellow(MT4 API)\FXFellowDashboard\FXFELLOW_DASHBOARD\FXFellowDashboard\obj\Release\FXFellowDashboard.OrderHeaderCtrl.resources
+D:\Work\Trading\Bot\6. FxFellow(MT4 API)\FXFellowDashboard\FXFELLOW_DASHBOARD\FXFellowDashboard\obj\Release\FXFellowDashboard.PAMMBuySellCtrl.resources
+D:\Work\Trading\Bot\6. FxFellow(MT4 API)\FXFellowDashboard\FXFELLOW_DASHBOARD\FXFellowDashboard\obj\Release\FXFellowDashboard.PDFViewer.resources
+D:\Work\Trading\Bot\6. FxFellow(MT4 API)\FXFellowDashboard\FXFELLOW_DASHBOARD\FXFellowDashboard\obj\Release\FXFellowDashboard.PendingOrderControl.resources
+D:\Work\Trading\Bot\6. FxFellow(MT4 API)\FXFellowDashboard\FXFELLOW_DASHBOARD\FXFellowDashboard\obj\Release\FXFellowDashboard.PendingOrderIndicator.resources
+D:\Work\Trading\Bot\6. FxFellow(MT4 API)\FXFellowDashboard\FXFELLOW_DASHBOARD\FXFellowDashboard\obj\Release\FXFellowDashboard.Properties.Resources.resources
+D:\Work\Trading\Bot\6. FxFellow(MT4 API)\FXFellowDashboard\FXFELLOW_DASHBOARD\FXFellowDashboard\obj\Release\FXFellowDashboard.SellBuyControl.resources
+D:\Work\Trading\Bot\6. FxFellow(MT4 API)\FXFellowDashboard\FXFELLOW_DASHBOARD\FXFellowDashboard\obj\Release\FXFellowDashboard.StockBuyButton.resources
+D:\Work\Trading\Bot\6. FxFellow(MT4 API)\FXFellowDashboard\FXFELLOW_DASHBOARD\FXFellowDashboard\obj\Release\FXFellowDashboard.StockSellButton.resources
+D:\Work\Trading\Bot\6. FxFellow(MT4 API)\FXFellowDashboard\FXFELLOW_DASHBOARD\FXFellowDashboard\obj\Release\FXFellowDashboard.TDBuySellCtrl.resources
+D:\Work\Trading\Bot\6. FxFellow(MT4 API)\FXFellowDashboard\FXFELLOW_DASHBOARD\FXFellowDashboard\obj\Release\FXFellowDashboard.csproj.GenerateResource.cache
+D:\Work\Trading\Bot\6. FxFellow(MT4 API)\FXFellowDashboard\FXFELLOW_DASHBOARD\FXFellowDashboard\obj\Release\FXFellowDashboard.csproj.CoreCompileInputs.cache
+D:\Work\Trading\Bot\6. FxFellow(MT4 API)\FXFellowDashboard\FXFELLOW_DASHBOARD\FXFellowDashboard\obj\Release\FXFellowDashboard.csproj.CopyComplete
+D:\Work\Trading\Bot\6. FxFellow(MT4 API)\FXFellowDashboard\FXFELLOW_DASHBOARD\FXFellowDashboard\obj\Release\FXFellowDashboard.exe
+D:\Work\Trading\Bot\6. FxFellow(MT4 API)\FXFellowDashboard\FXFELLOW_DASHBOARD\FXFellowDashboard\obj\Release\FXFellowDashboard.pdb
+D:\Work\Trading\Bot\6. FxFellow(MT4 API)\FxFellow_Dashboard_git\FXFellowDashboard\bin\log4net.config
+D:\Work\Trading\Bot\6. FxFellow(MT4 API)\FxFellow_Dashboard_git\FXFellowDashboard\bin\FXFellowDashboard.exe.config
+D:\Work\Trading\Bot\6. FxFellow(MT4 API)\FxFellow_Dashboard_git\FXFellowDashboard\bin\FXFellowDashboard.exe
+D:\Work\Trading\Bot\6. FxFellow(MT4 API)\FxFellow_Dashboard_git\FXFellowDashboard\bin\FXFellowDashboard.pdb
+D:\Work\Trading\Bot\6. FxFellow(MT4 API)\FxFellow_Dashboard_git\FXFellowDashboard\bin\Bunifu_UI_v1.5.3.dll
+D:\Work\Trading\Bot\6. FxFellow(MT4 API)\FxFellow_Dashboard_git\FXFellowDashboard\bin\EntityFramework.dll
+D:\Work\Trading\Bot\6. FxFellow(MT4 API)\FxFellow_Dashboard_git\FXFellowDashboard\bin\EntityFramework.SqlServer.dll
+D:\Work\Trading\Bot\6. FxFellow(MT4 API)\FxFellow_Dashboard_git\FXFellowDashboard\bin\HtmlRenderer.dll
+D:\Work\Trading\Bot\6. FxFellow(MT4 API)\FxFellow_Dashboard_git\FXFellowDashboard\bin\HtmlRenderer.PdfSharp.dll
+D:\Work\Trading\Bot\6. FxFellow(MT4 API)\FxFellow_Dashboard_git\FXFellowDashboard\bin\log4net.dll
+D:\Work\Trading\Bot\6. FxFellow(MT4 API)\FxFellow_Dashboard_git\FXFellowDashboard\bin\Microsoft.IdentityModel.Logging.dll
+D:\Work\Trading\Bot\6. FxFellow(MT4 API)\FxFellow_Dashboard_git\FXFellowDashboard\bin\Microsoft.IdentityModel.Tokens.dll
+D:\Work\Trading\Bot\6. FxFellow(MT4 API)\FxFellow_Dashboard_git\FXFellowDashboard\bin\Newtonsoft.Json.dll
+D:\Work\Trading\Bot\6. FxFellow(MT4 API)\FxFellow_Dashboard_git\FXFellowDashboard\bin\PdfiumViewer.dll
+D:\Work\Trading\Bot\6. FxFellow(MT4 API)\FxFellow_Dashboard_git\FXFellowDashboard\bin\PdfSharp.Charting.dll
+D:\Work\Trading\Bot\6. FxFellow(MT4 API)\FxFellow_Dashboard_git\FXFellowDashboard\bin\PdfSharp.dll
+D:\Work\Trading\Bot\6. FxFellow(MT4 API)\FxFellow_Dashboard_git\FXFellowDashboard\bin\System.Data.SQLite.dll
+D:\Work\Trading\Bot\6. FxFellow(MT4 API)\FxFellow_Dashboard_git\FXFellowDashboard\bin\System.Data.SQLite.EF6.dll
+D:\Work\Trading\Bot\6. FxFellow(MT4 API)\FxFellow_Dashboard_git\FXFellowDashboard\bin\System.Data.SQLite.Linq.dll
+D:\Work\Trading\Bot\6. FxFellow(MT4 API)\FxFellow_Dashboard_git\FXFellowDashboard\bin\System.IdentityModel.Tokens.Jwt.dll
+D:\Work\Trading\Bot\6. FxFellow(MT4 API)\FxFellow_Dashboard_git\FXFellowDashboard\bin\Twilio.dll
+D:\Work\Trading\Bot\6. FxFellow(MT4 API)\FxFellow_Dashboard_git\FXFellowDashboard\bin\WebDriver.dll
+D:\Work\Trading\Bot\6. FxFellow(MT4 API)\FxFellow_Dashboard_git\FXFellowDashboard\bin\LoginId.dll
+D:\Work\Trading\Bot\6. FxFellow(MT4 API)\FxFellow_Dashboard_git\FXFellowDashboard\bin\EntityFramework.xml
+D:\Work\Trading\Bot\6. FxFellow(MT4 API)\FxFellow_Dashboard_git\FXFellowDashboard\bin\EntityFramework.SqlServer.xml
+D:\Work\Trading\Bot\6. FxFellow(MT4 API)\FxFellow_Dashboard_git\FXFellowDashboard\bin\HtmlRenderer.pdb
+D:\Work\Trading\Bot\6. FxFellow(MT4 API)\FxFellow_Dashboard_git\FXFellowDashboard\bin\HtmlRenderer.PdfSharp.pdb
+D:\Work\Trading\Bot\6. FxFellow(MT4 API)\FxFellow_Dashboard_git\FXFellowDashboard\bin\log4net.xml
+D:\Work\Trading\Bot\6. FxFellow(MT4 API)\FxFellow_Dashboard_git\FXFellowDashboard\bin\Microsoft.IdentityModel.Tokens.xml
+D:\Work\Trading\Bot\6. FxFellow(MT4 API)\FxFellow_Dashboard_git\FXFellowDashboard\bin\Newtonsoft.Json.xml
+D:\Work\Trading\Bot\6. FxFellow(MT4 API)\FxFellow_Dashboard_git\FXFellowDashboard\bin\PdfSharp.xml
+D:\Work\Trading\Bot\6. FxFellow(MT4 API)\FxFellow_Dashboard_git\FXFellowDashboard\bin\PdfSharp.Charting.xml
+D:\Work\Trading\Bot\6. FxFellow(MT4 API)\FxFellow_Dashboard_git\FXFellowDashboard\bin\System.Data.SQLite.xml
+D:\Work\Trading\Bot\6. FxFellow(MT4 API)\FxFellow_Dashboard_git\FXFellowDashboard\bin\System.Data.SQLite.dll.config
+D:\Work\Trading\Bot\6. FxFellow(MT4 API)\FxFellow_Dashboard_git\FXFellowDashboard\bin\System.IdentityModel.Tokens.Jwt.xml
+D:\Work\Trading\Bot\6. FxFellow(MT4 API)\FxFellow_Dashboard_git\FXFellowDashboard\bin\Twilio.xml
+D:\Work\Trading\Bot\6. FxFellow(MT4 API)\FxFellow_Dashboard_git\FXFellowDashboard\bin\WebDriver.xml
+D:\Work\Trading\Bot\6. FxFellow(MT4 API)\FxFellow_Dashboard_git\FXFellowDashboard\bin\de\PdfSharp.resources.dll
+D:\Work\Trading\Bot\6. FxFellow(MT4 API)\FxFellow_Dashboard_git\FXFellowDashboard\bin\de\PdfSharp.Charting.resources.dll
+D:\Work\Trading\Bot\6. FxFellow(MT4 API)\FxFellow_Dashboard_git\FXFellowDashboard\obj\Release\FXFellowDashboard.AccountPAMM.resources
+D:\Work\Trading\Bot\6. FxFellow(MT4 API)\FxFellow_Dashboard_git\FXFellowDashboard\obj\Release\FXFellowDashboard.AccountsCtrl.resources
+D:\Work\Trading\Bot\6. FxFellow(MT4 API)\FxFellow_Dashboard_git\FXFellowDashboard\obj\Release\FXFellowDashboard.ClientCtrl.resources
+D:\Work\Trading\Bot\6. FxFellow(MT4 API)\FxFellow_Dashboard_git\FXFellowDashboard\obj\Release\FXFellowDashboard.HeaderCtrl.resources
+D:\Work\Trading\Bot\6. FxFellow(MT4 API)\FxFellow_Dashboard_git\FXFellowDashboard\obj\Release\FXFellowDashboard.HeaderPAMM.resources
+D:\Work\Trading\Bot\6. FxFellow(MT4 API)\FxFellow_Dashboard_git\FXFellowDashboard\obj\Release\FXFellowDashboard.HTMLViewCtrl.resources
+D:\Work\Trading\Bot\6. FxFellow(MT4 API)\FxFellow_Dashboard_git\FXFellowDashboard\obj\Release\FXFellowDashboard.MainFrm.resources
+D:\Work\Trading\Bot\6. FxFellow(MT4 API)\FxFellow_Dashboard_git\FXFellowDashboard\obj\Release\FXFellowDashboard.MarginCallAlert.resources
+D:\Work\Trading\Bot\6. FxFellow(MT4 API)\FxFellow_Dashboard_git\FXFellowDashboard\obj\Release\FXFellowDashboard.OrderCtrl.resources
+D:\Work\Trading\Bot\6. FxFellow(MT4 API)\FxFellow_Dashboard_git\FXFellowDashboard\obj\Release\FXFellowDashboard.OrderHeaderCtrl.resources
+D:\Work\Trading\Bot\6. FxFellow(MT4 API)\FxFellow_Dashboard_git\FXFellowDashboard\obj\Release\FXFellowDashboard.PAMMBuySellCtrl.resources
+D:\Work\Trading\Bot\6. FxFellow(MT4 API)\FxFellow_Dashboard_git\FXFellowDashboard\obj\Release\FXFellowDashboard.PDFViewer.resources
+D:\Work\Trading\Bot\6. FxFellow(MT4 API)\FxFellow_Dashboard_git\FXFellowDashboard\obj\Release\FXFellowDashboard.PendingOrderControl.resources
+D:\Work\Trading\Bot\6. FxFellow(MT4 API)\FxFellow_Dashboard_git\FXFellowDashboard\obj\Release\FXFellowDashboard.PendingOrderIndicator.resources
+D:\Work\Trading\Bot\6. FxFellow(MT4 API)\FxFellow_Dashboard_git\FXFellowDashboard\obj\Release\FXFellowDashboard.Properties.Resources.resources
+D:\Work\Trading\Bot\6. FxFellow(MT4 API)\FxFellow_Dashboard_git\FXFellowDashboard\obj\Release\FXFellowDashboard.SellBuyControl.resources
+D:\Work\Trading\Bot\6. FxFellow(MT4 API)\FxFellow_Dashboard_git\FXFellowDashboard\obj\Release\FXFellowDashboard.StockBuyButton.resources
+D:\Work\Trading\Bot\6. FxFellow(MT4 API)\FxFellow_Dashboard_git\FXFellowDashboard\obj\Release\FXFellowDashboard.StockSellButton.resources
+D:\Work\Trading\Bot\6. FxFellow(MT4 API)\FxFellow_Dashboard_git\FXFellowDashboard\obj\Release\FXFellowDashboard.TDBuySellCtrl.resources
+D:\Work\Trading\Bot\6. FxFellow(MT4 API)\FxFellow_Dashboard_git\FXFellowDashboard\obj\Release\FXFellowDashboard.csproj.GenerateResource.cache
+D:\Work\Trading\Bot\6. FxFellow(MT4 API)\FxFellow_Dashboard_git\FXFellowDashboard\obj\Release\FXFellowDashboard.csproj.CoreCompileInputs.cache
+D:\Work\Trading\Bot\6. FxFellow(MT4 API)\FxFellow_Dashboard_git\FXFellowDashboard\obj\Release\FXFellowDashboard.csproj.CopyComplete
+D:\Work\Trading\Bot\6. FxFellow(MT4 API)\FxFellow_Dashboard_git\FXFellowDashboard\obj\Release\FXFellowDashboard.exe
+D:\Work\Trading\Bot\6. FxFellow(MT4 API)\FxFellow_Dashboard_git\FXFellowDashboard\obj\Release\FXFellowDashboard.pdb
+D:\Work\Trading\Bot\6. FxFellow(MT4 API)\FxFellow_Dashboard_git\FXFellowDashboard\bin\MTClientAPI.dll
+D:\Work\Trading\Bot\6. FxFellow(MT4 API)\FxFellow_Dashboard_git\FXFellowDashboard\obj\Release\FXFellowDashboard.csprojAssemblyReference.cache
+G:\01_WORK\2022\Fxfellow\FXFellowDashboard_Source_2.17\FXFellowDashboard\bin\log4net.config
+G:\01_WORK\2022\Fxfellow\FXFellowDashboard_Source_2.17\FXFellowDashboard\bin\res\Roboto-Bold.ttf
+G:\01_WORK\2022\Fxfellow\FXFellowDashboard_Source_2.17\FXFellowDashboard\bin\res\Roboto-Regular.ttf
+G:\01_WORK\2022\Fxfellow\FXFellowDashboard_Source_2.17\FXFellowDashboard\bin\FXFellowDashboard.exe.config
+G:\01_WORK\2022\Fxfellow\FXFellowDashboard_Source_2.17\FXFellowDashboard\bin\FXFellowDashboard.exe
+G:\01_WORK\2022\Fxfellow\FXFellowDashboard_Source_2.17\FXFellowDashboard\bin\FXFellowDashboard.pdb
+G:\01_WORK\2022\Fxfellow\FXFellowDashboard_Source_2.17\FXFellowDashboard\bin\Bunifu_UI_v1.5.3.dll
+G:\01_WORK\2022\Fxfellow\FXFellowDashboard_Source_2.17\FXFellowDashboard\bin\EntityFramework.dll
+G:\01_WORK\2022\Fxfellow\FXFellowDashboard_Source_2.17\FXFellowDashboard\bin\EntityFramework.SqlServer.dll
+G:\01_WORK\2022\Fxfellow\FXFellowDashboard_Source_2.17\FXFellowDashboard\bin\HtmlRenderer.dll
+G:\01_WORK\2022\Fxfellow\FXFellowDashboard_Source_2.17\FXFellowDashboard\bin\HtmlRenderer.PdfSharp.dll
+G:\01_WORK\2022\Fxfellow\FXFellowDashboard_Source_2.17\FXFellowDashboard\bin\log4net.dll
+G:\01_WORK\2022\Fxfellow\FXFellowDashboard_Source_2.17\FXFellowDashboard\bin\LoginId.dll
+G:\01_WORK\2022\Fxfellow\FXFellowDashboard_Source_2.17\FXFellowDashboard\bin\Microsoft.IdentityModel.Logging.dll
+G:\01_WORK\2022\Fxfellow\FXFellowDashboard_Source_2.17\FXFellowDashboard\bin\Microsoft.IdentityModel.Tokens.dll
+G:\01_WORK\2022\Fxfellow\FXFellowDashboard_Source_2.17\FXFellowDashboard\bin\MTClientAPI.dll
+G:\01_WORK\2022\Fxfellow\FXFellowDashboard_Source_2.17\FXFellowDashboard\bin\Newtonsoft.Json.dll
+G:\01_WORK\2022\Fxfellow\FXFellowDashboard_Source_2.17\FXFellowDashboard\bin\PdfiumViewer.dll
+G:\01_WORK\2022\Fxfellow\FXFellowDashboard_Source_2.17\FXFellowDashboard\bin\PdfSharp.Charting.dll
+G:\01_WORK\2022\Fxfellow\FXFellowDashboard_Source_2.17\FXFellowDashboard\bin\PdfSharp.dll
+G:\01_WORK\2022\Fxfellow\FXFellowDashboard_Source_2.17\FXFellowDashboard\bin\System.Data.SQLite.dll
+G:\01_WORK\2022\Fxfellow\FXFellowDashboard_Source_2.17\FXFellowDashboard\bin\System.Data.SQLite.EF6.dll
+G:\01_WORK\2022\Fxfellow\FXFellowDashboard_Source_2.17\FXFellowDashboard\bin\System.Data.SQLite.Linq.dll
+G:\01_WORK\2022\Fxfellow\FXFellowDashboard_Source_2.17\FXFellowDashboard\bin\System.IdentityModel.Tokens.Jwt.dll
+G:\01_WORK\2022\Fxfellow\FXFellowDashboard_Source_2.17\FXFellowDashboard\bin\Twilio.dll
+G:\01_WORK\2022\Fxfellow\FXFellowDashboard_Source_2.17\FXFellowDashboard\bin\WebDriver.dll
+G:\01_WORK\2022\Fxfellow\FXFellowDashboard_Source_2.17\FXFellowDashboard\bin\EntityFramework.xml
+G:\01_WORK\2022\Fxfellow\FXFellowDashboard_Source_2.17\FXFellowDashboard\bin\EntityFramework.SqlServer.xml
+G:\01_WORK\2022\Fxfellow\FXFellowDashboard_Source_2.17\FXFellowDashboard\bin\HtmlRenderer.pdb
+G:\01_WORK\2022\Fxfellow\FXFellowDashboard_Source_2.17\FXFellowDashboard\bin\HtmlRenderer.PdfSharp.pdb
+G:\01_WORK\2022\Fxfellow\FXFellowDashboard_Source_2.17\FXFellowDashboard\bin\log4net.xml
+G:\01_WORK\2022\Fxfellow\FXFellowDashboard_Source_2.17\FXFellowDashboard\bin\Microsoft.IdentityModel.Tokens.xml
+G:\01_WORK\2022\Fxfellow\FXFellowDashboard_Source_2.17\FXFellowDashboard\bin\Newtonsoft.Json.xml
+G:\01_WORK\2022\Fxfellow\FXFellowDashboard_Source_2.17\FXFellowDashboard\bin\PdfSharp.xml
+G:\01_WORK\2022\Fxfellow\FXFellowDashboard_Source_2.17\FXFellowDashboard\bin\PdfSharp.Charting.xml
+G:\01_WORK\2022\Fxfellow\FXFellowDashboard_Source_2.17\FXFellowDashboard\bin\System.Data.SQLite.xml
+G:\01_WORK\2022\Fxfellow\FXFellowDashboard_Source_2.17\FXFellowDashboard\bin\System.Data.SQLite.dll.config
+G:\01_WORK\2022\Fxfellow\FXFellowDashboard_Source_2.17\FXFellowDashboard\bin\System.IdentityModel.Tokens.Jwt.xml
+G:\01_WORK\2022\Fxfellow\FXFellowDashboard_Source_2.17\FXFellowDashboard\bin\Twilio.xml
+G:\01_WORK\2022\Fxfellow\FXFellowDashboard_Source_2.17\FXFellowDashboard\bin\WebDriver.xml
+G:\01_WORK\2022\Fxfellow\FXFellowDashboard_Source_2.17\FXFellowDashboard\bin\de\PdfSharp.resources.dll
+G:\01_WORK\2022\Fxfellow\FXFellowDashboard_Source_2.17\FXFellowDashboard\bin\de\PdfSharp.Charting.resources.dll
+G:\01_WORK\2022\Fxfellow\FXFellowDashboard_Source_2.17\FXFellowDashboard\obj\Release\FXFellowDashboard.csproj.AssemblyReference.cache
+G:\01_WORK\2022\Fxfellow\FXFellowDashboard_Source_2.17\FXFellowDashboard\obj\Release\FXFellowDashboard.AccountPAMM.resources
+G:\01_WORK\2022\Fxfellow\FXFellowDashboard_Source_2.17\FXFellowDashboard\obj\Release\FXFellowDashboard.AccountsCtrl.resources
+G:\01_WORK\2022\Fxfellow\FXFellowDashboard_Source_2.17\FXFellowDashboard\obj\Release\FXFellowDashboard.ClientCtrl.resources
+G:\01_WORK\2022\Fxfellow\FXFellowDashboard_Source_2.17\FXFellowDashboard\obj\Release\FXFellowDashboard.HeaderCtrl.resources
+G:\01_WORK\2022\Fxfellow\FXFellowDashboard_Source_2.17\FXFellowDashboard\obj\Release\FXFellowDashboard.HeaderPAMM.resources
+G:\01_WORK\2022\Fxfellow\FXFellowDashboard_Source_2.17\FXFellowDashboard\obj\Release\FXFellowDashboard.HTMLViewCtrl.resources
+G:\01_WORK\2022\Fxfellow\FXFellowDashboard_Source_2.17\FXFellowDashboard\obj\Release\FXFellowDashboard.MainFrm.resources
+G:\01_WORK\2022\Fxfellow\FXFellowDashboard_Source_2.17\FXFellowDashboard\obj\Release\FXFellowDashboard.MarginCallAlert.resources
+G:\01_WORK\2022\Fxfellow\FXFellowDashboard_Source_2.17\FXFellowDashboard\obj\Release\FXFellowDashboard.OrderCtrl.resources
+G:\01_WORK\2022\Fxfellow\FXFellowDashboard_Source_2.17\FXFellowDashboard\obj\Release\FXFellowDashboard.OrderHeaderCtrl.resources
+G:\01_WORK\2022\Fxfellow\FXFellowDashboard_Source_2.17\FXFellowDashboard\obj\Release\FXFellowDashboard.PAMMBuySellCtrl.resources
+G:\01_WORK\2022\Fxfellow\FXFellowDashboard_Source_2.17\FXFellowDashboard\obj\Release\FXFellowDashboard.PDFViewer.resources
+G:\01_WORK\2022\Fxfellow\FXFellowDashboard_Source_2.17\FXFellowDashboard\obj\Release\FXFellowDashboard.PendingOrderControl.resources
+G:\01_WORK\2022\Fxfellow\FXFellowDashboard_Source_2.17\FXFellowDashboard\obj\Release\FXFellowDashboard.PendingOrderIndicator.resources
+G:\01_WORK\2022\Fxfellow\FXFellowDashboard_Source_2.17\FXFellowDashboard\obj\Release\FXFellowDashboard.Properties.Resources.resources
+G:\01_WORK\2022\Fxfellow\FXFellowDashboard_Source_2.17\FXFellowDashboard\obj\Release\FXFellowDashboard.SellBuyControl.resources
+G:\01_WORK\2022\Fxfellow\FXFellowDashboard_Source_2.17\FXFellowDashboard\obj\Release\FXFellowDashboard.StockBuyButton.resources
+G:\01_WORK\2022\Fxfellow\FXFellowDashboard_Source_2.17\FXFellowDashboard\obj\Release\FXFellowDashboard.StockSellButton.resources
+G:\01_WORK\2022\Fxfellow\FXFellowDashboard_Source_2.17\FXFellowDashboard\obj\Release\FXFellowDashboard.TDBuySellCtrl.resources
+G:\01_WORK\2022\Fxfellow\FXFellowDashboard_Source_2.17\FXFellowDashboard\obj\Release\FXFellowDashboard.csproj.GenerateResource.cache
+G:\01_WORK\2022\Fxfellow\FXFellowDashboard_Source_2.17\FXFellowDashboard\obj\Release\FXFellowDashboard.csproj.CoreCompileInputs.cache
+G:\01_WORK\2022\Fxfellow\FXFellowDashboard_Source_2.17\FXFellowDashboard\obj\Release\FXFellowDashboard.csproj.CopyComplete
+G:\01_WORK\2022\Fxfellow\FXFellowDashboard_Source_2.17\FXFellowDashboard\obj\Release\FXFellowDashboard.exe
+G:\01_WORK\2022\Fxfellow\FXFellowDashboard_Source_2.17\FXFellowDashboard\obj\Release\FXFellowDashboard.pdb
+G:\01_WORK\2022\Fxfellow\FXFellowDashboard_Source_2.18\FXFellowDashboard\bin\log4net.config
+G:\01_WORK\2022\Fxfellow\FXFellowDashboard_Source_2.18\FXFellowDashboard\bin\res\Roboto-Bold.ttf
+G:\01_WORK\2022\Fxfellow\FXFellowDashboard_Source_2.18\FXFellowDashboard\bin\res\Roboto-Regular.ttf
+G:\01_WORK\2022\Fxfellow\FXFellowDashboard_Source_2.18\FXFellowDashboard\bin\FXFellowDashboard.exe.config
+G:\01_WORK\2022\Fxfellow\FXFellowDashboard_Source_2.18\FXFellowDashboard\bin\FXFellowDashboard.exe
+G:\01_WORK\2022\Fxfellow\FXFellowDashboard_Source_2.18\FXFellowDashboard\bin\FXFellowDashboard.pdb
+G:\01_WORK\2022\Fxfellow\FXFellowDashboard_Source_2.18\FXFellowDashboard\bin\Bunifu_UI_v1.5.3.dll
+G:\01_WORK\2022\Fxfellow\FXFellowDashboard_Source_2.18\FXFellowDashboard\bin\EntityFramework.dll
+G:\01_WORK\2022\Fxfellow\FXFellowDashboard_Source_2.18\FXFellowDashboard\bin\EntityFramework.SqlServer.dll
+G:\01_WORK\2022\Fxfellow\FXFellowDashboard_Source_2.18\FXFellowDashboard\bin\HtmlRenderer.dll
+G:\01_WORK\2022\Fxfellow\FXFellowDashboard_Source_2.18\FXFellowDashboard\bin\HtmlRenderer.PdfSharp.dll
+G:\01_WORK\2022\Fxfellow\FXFellowDashboard_Source_2.18\FXFellowDashboard\bin\log4net.dll
+G:\01_WORK\2022\Fxfellow\FXFellowDashboard_Source_2.18\FXFellowDashboard\bin\LoginId.dll
+G:\01_WORK\2022\Fxfellow\FXFellowDashboard_Source_2.18\FXFellowDashboard\bin\Microsoft.IdentityModel.Logging.dll
+G:\01_WORK\2022\Fxfellow\FXFellowDashboard_Source_2.18\FXFellowDashboard\bin\Microsoft.IdentityModel.Tokens.dll
+G:\01_WORK\2022\Fxfellow\FXFellowDashboard_Source_2.18\FXFellowDashboard\bin\MTClientAPI.dll
+G:\01_WORK\2022\Fxfellow\FXFellowDashboard_Source_2.18\FXFellowDashboard\bin\Newtonsoft.Json.dll
+G:\01_WORK\2022\Fxfellow\FXFellowDashboard_Source_2.18\FXFellowDashboard\bin\PdfiumViewer.dll
+G:\01_WORK\2022\Fxfellow\FXFellowDashboard_Source_2.18\FXFellowDashboard\bin\PdfSharp.Charting.dll
+G:\01_WORK\2022\Fxfellow\FXFellowDashboard_Source_2.18\FXFellowDashboard\bin\PdfSharp.dll
+G:\01_WORK\2022\Fxfellow\FXFellowDashboard_Source_2.18\FXFellowDashboard\bin\System.Data.SQLite.dll
+G:\01_WORK\2022\Fxfellow\FXFellowDashboard_Source_2.18\FXFellowDashboard\bin\System.Data.SQLite.EF6.dll
+G:\01_WORK\2022\Fxfellow\FXFellowDashboard_Source_2.18\FXFellowDashboard\bin\System.Data.SQLite.Linq.dll
+G:\01_WORK\2022\Fxfellow\FXFellowDashboard_Source_2.18\FXFellowDashboard\bin\System.IdentityModel.Tokens.Jwt.dll
+G:\01_WORK\2022\Fxfellow\FXFellowDashboard_Source_2.18\FXFellowDashboard\bin\Twilio.dll
+G:\01_WORK\2022\Fxfellow\FXFellowDashboard_Source_2.18\FXFellowDashboard\bin\WebDriver.dll
+G:\01_WORK\2022\Fxfellow\FXFellowDashboard_Source_2.18\FXFellowDashboard\bin\EntityFramework.xml
+G:\01_WORK\2022\Fxfellow\FXFellowDashboard_Source_2.18\FXFellowDashboard\bin\EntityFramework.SqlServer.xml
+G:\01_WORK\2022\Fxfellow\FXFellowDashboard_Source_2.18\FXFellowDashboard\bin\HtmlRenderer.pdb
+G:\01_WORK\2022\Fxfellow\FXFellowDashboard_Source_2.18\FXFellowDashboard\bin\HtmlRenderer.PdfSharp.pdb
+G:\01_WORK\2022\Fxfellow\FXFellowDashboard_Source_2.18\FXFellowDashboard\bin\log4net.xml
+G:\01_WORK\2022\Fxfellow\FXFellowDashboard_Source_2.18\FXFellowDashboard\bin\Microsoft.IdentityModel.Tokens.xml
+G:\01_WORK\2022\Fxfellow\FXFellowDashboard_Source_2.18\FXFellowDashboard\bin\Newtonsoft.Json.xml
+G:\01_WORK\2022\Fxfellow\FXFellowDashboard_Source_2.18\FXFellowDashboard\bin\PdfSharp.xml
+G:\01_WORK\2022\Fxfellow\FXFellowDashboard_Source_2.18\FXFellowDashboard\bin\PdfSharp.Charting.xml
+G:\01_WORK\2022\Fxfellow\FXFellowDashboard_Source_2.18\FXFellowDashboard\bin\System.Data.SQLite.xml
+G:\01_WORK\2022\Fxfellow\FXFellowDashboard_Source_2.18\FXFellowDashboard\bin\System.Data.SQLite.dll.config
+G:\01_WORK\2022\Fxfellow\FXFellowDashboard_Source_2.18\FXFellowDashboard\bin\System.IdentityModel.Tokens.Jwt.xml
+G:\01_WORK\2022\Fxfellow\FXFellowDashboard_Source_2.18\FXFellowDashboard\bin\Twilio.xml
+G:\01_WORK\2022\Fxfellow\FXFellowDashboard_Source_2.18\FXFellowDashboard\bin\WebDriver.xml
+G:\01_WORK\2022\Fxfellow\FXFellowDashboard_Source_2.18\FXFellowDashboard\bin\de\PdfSharp.resources.dll
+G:\01_WORK\2022\Fxfellow\FXFellowDashboard_Source_2.18\FXFellowDashboard\bin\de\PdfSharp.Charting.resources.dll
+G:\01_WORK\2022\Fxfellow\FXFellowDashboard_Source_2.18\FXFellowDashboard\obj\Release\FXFellowDashboard.csproj.AssemblyReference.cache
+G:\01_WORK\2022\Fxfellow\FXFellowDashboard_Source_2.18\FXFellowDashboard\obj\Release\FXFellowDashboard.AccountPAMM.resources
+G:\01_WORK\2022\Fxfellow\FXFellowDashboard_Source_2.18\FXFellowDashboard\obj\Release\FXFellowDashboard.AccountsCtrl.resources
+G:\01_WORK\2022\Fxfellow\FXFellowDashboard_Source_2.18\FXFellowDashboard\obj\Release\FXFellowDashboard.ClientCtrl.resources
+G:\01_WORK\2022\Fxfellow\FXFellowDashboard_Source_2.18\FXFellowDashboard\obj\Release\FXFellowDashboard.HeaderCtrl.resources
+G:\01_WORK\2022\Fxfellow\FXFellowDashboard_Source_2.18\FXFellowDashboard\obj\Release\FXFellowDashboard.HeaderPAMM.resources
+G:\01_WORK\2022\Fxfellow\FXFellowDashboard_Source_2.18\FXFellowDashboard\obj\Release\FXFellowDashboard.HTMLViewCtrl.resources
+G:\01_WORK\2022\Fxfellow\FXFellowDashboard_Source_2.18\FXFellowDashboard\obj\Release\FXFellowDashboard.MainFrm.resources
+G:\01_WORK\2022\Fxfellow\FXFellowDashboard_Source_2.18\FXFellowDashboard\obj\Release\FXFellowDashboard.MarginCallAlert.resources
+G:\01_WORK\2022\Fxfellow\FXFellowDashboard_Source_2.18\FXFellowDashboard\obj\Release\FXFellowDashboard.OrderCtrl.resources
+G:\01_WORK\2022\Fxfellow\FXFellowDashboard_Source_2.18\FXFellowDashboard\obj\Release\FXFellowDashboard.OrderHeaderCtrl.resources
+G:\01_WORK\2022\Fxfellow\FXFellowDashboard_Source_2.18\FXFellowDashboard\obj\Release\FXFellowDashboard.PAMMBuySellCtrl.resources
+G:\01_WORK\2022\Fxfellow\FXFellowDashboard_Source_2.18\FXFellowDashboard\obj\Release\FXFellowDashboard.PDFViewer.resources
+G:\01_WORK\2022\Fxfellow\FXFellowDashboard_Source_2.18\FXFellowDashboard\obj\Release\FXFellowDashboard.PendingOrderControl.resources
+G:\01_WORK\2022\Fxfellow\FXFellowDashboard_Source_2.18\FXFellowDashboard\obj\Release\FXFellowDashboard.PendingOrderIndicator.resources
+G:\01_WORK\2022\Fxfellow\FXFellowDashboard_Source_2.18\FXFellowDashboard\obj\Release\FXFellowDashboard.Properties.Resources.resources
+G:\01_WORK\2022\Fxfellow\FXFellowDashboard_Source_2.18\FXFellowDashboard\obj\Release\FXFellowDashboard.SellBuyControl.resources
+G:\01_WORK\2022\Fxfellow\FXFellowDashboard_Source_2.18\FXFellowDashboard\obj\Release\FXFellowDashboard.StockBuyButton.resources
+G:\01_WORK\2022\Fxfellow\FXFellowDashboard_Source_2.18\FXFellowDashboard\obj\Release\FXFellowDashboard.StockSellButton.resources
+G:\01_WORK\2022\Fxfellow\FXFellowDashboard_Source_2.18\FXFellowDashboard\obj\Release\FXFellowDashboard.TDBuySellCtrl.resources
+G:\01_WORK\2022\Fxfellow\FXFellowDashboard_Source_2.18\FXFellowDashboard\obj\Release\FXFellowDashboard.csproj.GenerateResource.cache
+G:\01_WORK\2022\Fxfellow\FXFellowDashboard_Source_2.18\FXFellowDashboard\obj\Release\FXFellowDashboard.csproj.CoreCompileInputs.cache
+G:\01_WORK\2022\Fxfellow\FXFellowDashboard_Source_2.18\FXFellowDashboard\obj\Release\FXFellowDashboard.csproj.CopyComplete
+G:\01_WORK\2022\Fxfellow\FXFellowDashboard_Source_2.18\FXFellowDashboard\obj\Release\FXFellowDashboard.exe
+G:\01_WORK\2022\Fxfellow\FXFellowDashboard_Source_2.18\FXFellowDashboard\obj\Release\FXFellowDashboard.pdb

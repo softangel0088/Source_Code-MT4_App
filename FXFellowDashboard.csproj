@@ -1,0 +1,401 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{2FDB7A5B-FB49-451C-9B5A-A7E88DB226A1}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>FXFellowDashboard</RootNamespace>
+    <AssemblyName>FXFellowDashboard</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <TargetFrameworkProfile />
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>Combo_Chart.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Bunifu_UI_v1.5.3">
+      <HintPath>lib\Bunifu_UI_v1.5.3.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.2.0\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.2.0\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
+    <Reference Include="HtmlRenderer, Version=1.5.1.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\HtmlRenderer.Core.1.5.1-beta1\lib\net45\HtmlRenderer.dll</HintPath>
+    </Reference>
+    <Reference Include="HtmlRenderer.PdfSharp, Version=1.5.1.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\HtmlRenderer.PdfSharp.1.5.1-beta1\lib\net45\HtmlRenderer.PdfSharp.dll</HintPath>
+    </Reference>
+    <Reference Include="log4net, Version=2.0.8.0, Culture=neutral, PublicKeyToken=669e0ddf0bb1aa2a, processorArchitecture=MSIL">
+      <HintPath>..\packages\log4net.2.0.8\lib\net45-full\log4net.dll</HintPath>
+    </Reference>
+    <Reference Include="LoginId, Version=0.0.0.0, Culture=neutral, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>lib\LoginId.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.IdentityModel.Logging, Version=1.1.2.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.IdentityModel.Logging.1.1.2\lib\net451\Microsoft.IdentityModel.Logging.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.IdentityModel.Tokens, Version=5.1.2.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.IdentityModel.Tokens.5.1.2\lib\net451\Microsoft.IdentityModel.Tokens.dll</HintPath>
+    </Reference>
+    <Reference Include="MTClientAPI">
+      <HintPath>lib\MTClientAPI.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=10.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.10.0.1\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="PdfiumViewer">
+      <HintPath>lib\PdfiumViewer.dll</HintPath>
+    </Reference>
+    <Reference Include="PdfSharp, Version=1.51.5185.0, Culture=neutral, PublicKeyToken=f94615aa0424f9eb, processorArchitecture=MSIL">
+      <HintPath>..\packages\PDFsharp.1.51.5185-beta\lib\net20\PdfSharp.dll</HintPath>
+    </Reference>
+    <Reference Include="PdfSharp.Charting, Version=1.51.5185.0, Culture=neutral, PublicKeyToken=f94615aa0424f9eb, processorArchitecture=MSIL">
+      <HintPath>..\packages\PDFsharp.1.51.5185-beta\lib\net20\PdfSharp.Charting.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.SQLite, Version=1.0.111.0, Culture=neutral, PublicKeyToken=db937bc2d44ff139, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Data.SQLite.Core.1.0.111.0\lib\net46\System.Data.SQLite.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Data.SQLite.EF6, Version=1.0.111.0, Culture=neutral, PublicKeyToken=db937bc2d44ff139, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Data.SQLite.EF6.1.0.111.0\lib\net46\System.Data.SQLite.EF6.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Data.SQLite.Linq, Version=1.0.111.0, Culture=neutral, PublicKeyToken=db937bc2d44ff139, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Data.SQLite.Linq.1.0.111.0\lib\net46\System.Data.SQLite.Linq.dll</HintPath>
+    </Reference>
+    <Reference Include="System.IdentityModel.Tokens.Jwt, Version=5.1.2.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.IdentityModel.Tokens.Jwt.5.1.2\lib\net451\System.IdentityModel.Tokens.Jwt.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Net" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Twilio, Version=5.32.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Twilio.5.32.0\lib\net451\Twilio.dll</HintPath>
+    </Reference>
+    <Reference Include="WebDriver, Version=0.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Selenium.WebDriver.4.0.0-alpha02\lib\net46\WebDriver.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AccountPAMM.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="AccountPAMM.Designer.cs">
+      <DependentUpon>AccountPAMM.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AccountsCtrl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="AccountsCtrl.Designer.cs">
+      <DependentUpon>AccountsCtrl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ClientCtrl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ClientCtrl.Designer.cs">
+      <DependentUpon>ClientCtrl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ClientLogin.cs" />
+    <Compile Include="ControlExtensions.cs" />
+    <Compile Include="ControlPage.cs" />
+    <Compile Include="EnumDefine.cs" />
+    <Compile Include="FXFellowAuto.cs" />
+    <Compile Include="Google.cs" />
+    <Compile Include="HeaderCtrl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="HeaderCtrl.Designer.cs">
+      <DependentUpon>HeaderCtrl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HeaderPAMM.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="HeaderPAMM.Designer.cs">
+      <DependentUpon>HeaderPAMM.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HTMLViewCtrl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="HTMLViewCtrl.Designer.cs">
+      <DependentUpon>HTMLViewCtrl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IGoogle.cs" />
+    <Compile Include="Info.cs" />
+    <Compile Include="MainFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainFrm.Designer.cs">
+      <DependentUpon>MainFrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MarginCallAlert.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MarginCallAlert.Designer.cs">
+      <DependentUpon>MarginCallAlert.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MT4APIWrapper.cs" />
+    <Compile Include="OrderCtrl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="OrderCtrl.Designer.cs">
+      <DependentUpon>OrderCtrl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="OrderHeaderCtrl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="OrderHeaderCtrl.Designer.cs">
+      <DependentUpon>OrderHeaderCtrl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MoneyShiftParam.cs" />
+    <Compile Include="PAMMBuySellCtrl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="PAMMBuySellCtrl.Designer.cs">
+      <DependentUpon>PAMMBuySellCtrl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PDFViewer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PDFViewer.Designer.cs">
+      <DependentUpon>PDFViewer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PendingOrderControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="PendingOrderControl.Designer.cs">
+      <DependentUpon>PendingOrderControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PendingOrderIndicator.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="PendingOrderIndicator.Designer.cs">
+      <DependentUpon>PendingOrderIndicator.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PriceAlert.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SellBuyControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="SellBuyControl.Designer.cs">
+      <DependentUpon>SellBuyControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SendSMS.cs" />
+    <Compile Include="Settings.cs" />
+    <Compile Include="SimpleAES.cs" />
+    <Compile Include="SQLiteWrapper.cs" />
+    <Compile Include="StatementInfo.cs" />
+    <Compile Include="StockBuyButton.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="StockBuyButton.Designer.cs">
+      <DependentUpon>StockBuyButton.cs</DependentUpon>
+    </Compile>
+    <Compile Include="StockSellButton.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="StockSellButton.Designer.cs">
+      <DependentUpon>StockSellButton.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TDBuySellCtrl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="TDBuySellCtrl.Designer.cs">
+      <DependentUpon>TDBuySellCtrl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ThreadParams.cs" />
+    <Compile Include="Utils.cs" />
+    <EmbeddedResource Include="AccountPAMM.resx">
+      <DependentUpon>AccountPAMM.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AccountsCtrl.resx">
+      <DependentUpon>AccountsCtrl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ClientCtrl.resx">
+      <DependentUpon>ClientCtrl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HeaderCtrl.resx">
+      <DependentUpon>HeaderCtrl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HeaderPAMM.resx">
+      <DependentUpon>HeaderPAMM.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HTMLViewCtrl.resx">
+      <DependentUpon>HTMLViewCtrl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainFrm.resx">
+      <DependentUpon>MainFrm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MarginCallAlert.resx">
+      <DependentUpon>MarginCallAlert.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OrderCtrl.resx">
+      <DependentUpon>OrderCtrl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OrderHeaderCtrl.resx">
+      <DependentUpon>OrderHeaderCtrl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PAMMBuySellCtrl.resx">
+      <DependentUpon>PAMMBuySellCtrl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PDFViewer.resx">
+      <DependentUpon>PDFViewer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PendingOrderControl.resx">
+      <DependentUpon>PendingOrderControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PendingOrderIndicator.resx">
+      <DependentUpon>PendingOrderIndicator.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="SellBuyControl.resx">
+      <DependentUpon>SellBuyControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StockBuyButton.resx">
+      <DependentUpon>StockBuyButton.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StockSellButton.resx">
+      <DependentUpon>StockSellButton.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TDBuySellCtrl.resx">
+      <DependentUpon>TDBuySellCtrl.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="log4net.config">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <AdditionalFiles Include="res\Roboto-Bold.ttf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </AdditionalFiles>
+    <AdditionalFiles Include="res\Roboto-Italic.ttf" />
+    <AdditionalFiles Include="res\Roboto-Light.ttf" />
+    <AdditionalFiles Include="res\Roboto-Medium.ttf" />
+    <AdditionalFiles Include="res\Roboto-Regular.ttf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </AdditionalFiles>
+    <AdditionalFiles Include="res\Roboto-Thin.ttf" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="res\img\Exit_64px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="res\img\Gender Neutral User_64px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="res\img\Settings_64px.png" />
+    <None Include="res\img\Search_48px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="res\img\logo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="res\img\Drop Down_64px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="res\img\Up Squared_64px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Connected Services\" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.6.1">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.6.1 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Combo_Chart.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <Import Project="..\packages\System.Data.SQLite.Core.1.0.111.0\build\net46\System.Data.SQLite.Core.targets" Condition="Exists('..\packages\System.Data.SQLite.Core.1.0.111.0\build\net46\System.Data.SQLite.Core.targets')" />
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>This project references NuGet package(s) that are missing on this computer. Use NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=322105. The missing file is {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\System.Data.SQLite.Core.1.0.111.0\build\net46\System.Data.SQLite.Core.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\System.Data.SQLite.Core.1.0.111.0\build\net46\System.Data.SQLite.Core.targets'))" />
+  </Target>
+</Project>
